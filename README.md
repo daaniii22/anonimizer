@@ -5,6 +5,4 @@ Tras esto debe pasarse a `selector1.ipynb`, donde se explicará y desarrollará 
 Por último, en `selector2.ipynb` se desarrolla el último de nuestros algoritmos.
 Todo esto como hemos dicho, según se avanza en la lectura de la memoria.
 
-Debido al peso de las imágenes y de las impresiones de matplotlib, los archivos son demasiado pesados como para entregarse por moodle (máximo de 20Mb y sólo los códigos ocupan 34Mb). El trabajo está disponible en este enlace: https://drive.google.com/drive/folders/1ZgvGlvsKpnJwbY_Ed1WxdxBkmiTR-N5B?usp=share_link
-
 **Autores: Daniel Moraleda, Víctor Pastor.**
